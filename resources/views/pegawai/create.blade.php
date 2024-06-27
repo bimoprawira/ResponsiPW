@@ -12,7 +12,7 @@
     <div class="container mx-auto mt-10">
         <div class="max-w-md mx-auto bg-white shadow-md rounded-lg overflow-hidden">
             <div class="p-6">
-                <h2 class="text-2xl font-bold text-center mb-4">Add Pegawai</h2>
+                <h2 class="text-2xl font-bold text-center mb-4">Tambah Pegawai</h2>
                 <form action="/pegawai" method="POST">
                     @csrf
                     <div class="mb-4">

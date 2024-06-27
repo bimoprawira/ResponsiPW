@@ -22,7 +22,7 @@
         <div class="flex justify-between items-center mb-6">
             <h1 class="text-3xl font-semibold">Pegawai List</h1>
             <a href="/pegawai/create"
-                class="bg-gray-800 hover:bg-blue-900 text-white px-4 py-2 rounded transition duration-300">Add New
+                class="bg-gray-800 hover:bg-blue-900 text-white px-4 py-2 rounded transition duration-300">Tambah
                 Pegawai</a>
         </div>
         <div class="overflow-x-auto">
